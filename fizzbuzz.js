@@ -11,7 +11,7 @@ while (output.length != 100) {
     } else {
         output.push(num);
     }
-    num += 1
+    num ++
 }
 
 console.log(output);
